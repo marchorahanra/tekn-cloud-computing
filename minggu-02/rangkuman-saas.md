@@ -27,9 +27,8 @@ Ini terkait dengan penyedia layanan aplikasi (ASP) yang menyediakan aplikasi "sh
 
 Dengan model ini, satu versi aplikasi, dengan satu konfigurasi digunakan untuk semua pelanggan. Aplikasi ini diinstal pada banyak mesin untuk mendukung skalabilitas (disebut penskalaan horizontal). Dalam beberapa kasus, versi kedua aplikasi diatur untuk menawarkan kelompok pelanggan tertentu dengan akses ke versi pra-rilis aplikasi untuk tujuan pengujian. Dalam model tradisional ini, setiap versi aplikasi didasarkan pada kode unik. Meskipun pengecualian, beberapa solusi SaaS tidak menggunakan multitenancy, untuk mengelola secara efektif sejumlah besar pelanggan di tempat.
 
-Ada dua varietas utama SaaS:
+*-Ada dua varietas utama SaaS*
 
-SaaS Vertikal
-Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis., Perangkat lunak untuk kesehatan, pertanian, real estat, industri keuangan)
-SaaS Horisontal
-Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+1.SaaS Vertikal : Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis., Perangkat lunak untuk kesehatan, pertanian, real estat, industri keuangan)
+
+2.SaaS Horisontal : Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.

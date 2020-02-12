@@ -1,4 +1,4 @@
-**The difference between IaaS, SaaS, and Paas**
+**A.The difference between IaaS, SaaS, and Paas**
 
 *1.IaaS (Infrastruktur sebagai layanan)*
 
@@ -11,3 +11,6 @@ Jenis layanan ini memisahkan semua keputusan perangkat keras. Hanya tumpukan per
 *3.SaaS (Perangkat lunak sebagai layanan)*
 
 Ini adalah level abstraksi tertinggi dan berarti Anda hanya menggunakan aplikasi web dan tidak pernah melihat tumpukan perangkat keras dan lunak yang membuatnya berjalan. Anda memasukkan data Anda sendiri ke dalam aplikasi yang disediakan namun beberapa aplikasi yang lebih besar memungkinkan untuk membangun aplikasi khusus di atas (mis. Facebook).
+
+
+**B.SAAS (Software as a Service) Platform Architecture**

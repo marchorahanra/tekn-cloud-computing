@@ -1,2 +1,2 @@
 # tekn-cloud-computing
-Praktikum Teknologi Cloud
+Marcho Rahanra - 175610012

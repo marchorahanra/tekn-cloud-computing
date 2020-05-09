@@ -1,4 +1,4 @@
-# Penjelasan Praktikum TCC Minggu Ke 09
+# Praktikum Minggu 09
 
 ## Latihan
 

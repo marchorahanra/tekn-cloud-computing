@@ -1,6 +1,5 @@
-# Penjelasan Praktikum TCC Minggu Ke 10
+# Penjelasan Hasil UAS TCC
 
-## Latihan
 
 1. Pada bagian yang pertama ini akan menjalankan perintah utama untuk mengonfigurasi dan mengelola jaringan kontainer. Seperti pada gambar dibawah ini :<br/>
 ![gambar-01](/minggu-10/gambar-01.jpg)<br/>
